@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/aspectron/micro-fabric-ux-precompiled/issues"
   },
-  "homepage": "https://github.com/aspectron/micro-fabric-ux-precompiled#readme"
+  "homepage": "https://github.com/aspectron/micro-fabric-ux-precompiled#readme",
+  "files": [
+    "@BUILD.zip",
+    "LICENSE",
+    "index.js",
+    "install.js",
+    "README.md"
+  ]
 }
