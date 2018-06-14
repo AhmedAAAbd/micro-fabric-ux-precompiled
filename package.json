@@ -1,6 +1,6 @@
 {
   "name": "micro-fabric-ux-precompiled",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "create a @BUILD (micro-fabric-ux-precompiled/@BUILD.zip) folder at root of project",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "url": "git+https://github.com/aspectron/micro-fabric-ux-precompiled.git"
   },
   "dependencies": {
-    "adm-zip": "*"
+    "adm-zip": "*",
+    "fs-extra": "*"
   },
   "keywords": [
     "micro-fabric-ux-precompiled"
