@@ -1,11 +1,11 @@
 {
   "name": "micro-fabric-ux-precompiled",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "create a @BUILD (micro-fabric-ux-precompiled/@BUILD.zip) folder at root of project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "postinstall": "install.js"
+    "postinstall": "node install.js"
   },
   "repository": {
     "type": "git",
