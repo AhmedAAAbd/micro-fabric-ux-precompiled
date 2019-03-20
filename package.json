@@ -1,6 +1,6 @@
 {
   "name": "micro-fabric-ux-precompiled",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "create a @BUILD (micro-fabric-ux-precompiled/@BUILD.zip) folder at root of project",
   "main": "index.js",
   "scripts": {
