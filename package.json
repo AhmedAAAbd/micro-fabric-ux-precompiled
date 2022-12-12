@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aspectron/micro-fabric-ux-precompiled.git"
+    "url": "git+https://github.com/AhmedAAAbd/micro-fabric-ux-precompiled.git"
   },
   "dependencies": {
     "adm-zip": "*",
